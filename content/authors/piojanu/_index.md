@@ -71,6 +71,6 @@ Science drives me forward. I'm interested in a little bit of pretty much everyth
 Those are some of the questions that a lot of people ask. I hope science and space exploration will give us answers.
 Nonetheless, sending humans to explore distant worlds would be risky and very costly.
 
-I'm working on artificial intelligence. I want to distill human intelligence into lasting form to explore further than ever before and represent us, humanity, among the stars. That being said, I'm a little worried that AI may not be about to cross the border of consciousness.
+I'm working on artificial intelligence. I want to distill human intelligence into lasting form to explore further than ever before and represent us, humanity, among the stars. That being said, I'm a little worried that AI may not be able to cross the border of consciousness.
 
 Scientists see Deep Reinforcement Learning as a path to Artificial General Intelligence because of how it mirrors human learning by exploring and receiving feedback from the environment. At the moment, I research planning and learning methods that make use of complex non-linear function approximators, known as Deep Neural Networks.
