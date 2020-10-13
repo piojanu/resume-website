@@ -5,14 +5,14 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 60  # Order that this section will appear.
+weight = 70  # Order that this section will appear.
 
-title = "Real Intelligence Podcast"
-subtitle = "Recent episodes"
+title = "Neptune.ai Blog"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "talk"
+  page_type = "post"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 5
@@ -30,6 +30,8 @@ subtitle = "Recent episodes"
     publication_type = ""
     author = ""
     exclude_featured = false
+    exclude_past = false
+    exclude_future = false
   
 [design]
   # Toggle between the various page layout types.

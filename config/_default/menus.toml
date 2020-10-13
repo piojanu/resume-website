@@ -10,8 +10,13 @@
 
 [[main]]
   name = "Podcast"
-  url = "#posts"
+  url = "#talks"
   weight = 20
+
+[[main]]
+  name = "Blog"
+  url = "#posts"
+  weight = 30
 
 [[main]]
   name = "Contact"
