@@ -10,23 +10,37 @@ authors:
 superuser: true
 
 # Role/position
-role: "Research Software Engineer at University of Warsaw and PhD student at Gdansk University of Technology"
+role: "Artificial Intelligence PhD student"
 
 # Organizations/Affiliations
-organizations: []
-# - name: University of Warsaw
-#   url: ""
+organizations:
+ - name: Gdansk University of Technology
+   url: ""
+ - name: University of Warsaw
+   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: “Be ready. Work. Hard. Enjoy it! It fits every situation." ~ Chris Hadfield
 
-interests: []
+interests:
+- Reinforcement Learning
+- High Performance Computing
+- Organization & Productivity
+- Visual Astronomy
+- Space Exploration
+- Astrophysics (for people in a hurry)
 
-education: []
-#   courses:
-#   - course: PhD in Artificial Intelligence
-#     institution: Stanford University
-#     year: 2012
+education:
+  courses:
+  - course: PhD in Computer Science
+    institution: Gdansk University of Technology
+    year: 2019-Now
+  - course: Master in Computer Science
+    institution: Gdansk University of Technology
+    year: 2018-2019
+  - course: Engineer in Computer Science
+    institution: Gdansk University of Technology
+    year: 2014-2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -58,19 +72,18 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Visitors
+
 ---
 
 Science drives me forward. I'm interested in a little bit of pretty much everything. However, when I look into the night sky it makes me wonder:
 
 - Are we really alone or it only seems like we are?
-- Where did we come from?
 - Is it just a matter of luck that we've evolved from simple organisms?
 - What awaits us among the distant stars?
 
 Those are some of the questions that a lot of people ask. I hope science and space exploration will give us answers.
 Nonetheless, sending humans to explore distant worlds would be risky and very costly.
 
-I'm working on artificial intelligence. I want to distill human intelligence into lasting form to explore further than ever before and represent us, humanity, among the stars. That being said, I'm a little worried that AI may not be able to cross the border of consciousness.
+I'm working on artificial intelligence. I want to distill human intelligence into lasting form to explore further than ever before and represent us, humanity, among the stars. That being said, I'm a little worried that AI won't be able to cross the border of consciousness.
 
 Scientists see Deep Reinforcement Learning as a path to Artificial General Intelligence because of how it mirrors human learning by exploring and receiving feedback from the environment. At the moment, I research planning and learning methods that make use of complex non-linear function approximators, known as Deep Neural Networks.
